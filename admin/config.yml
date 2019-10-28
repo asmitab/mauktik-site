@@ -20,16 +20,25 @@ collections:
       - { label: "Summary", name: "summary", widget: "text" }
       - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
       - { label: "Body", name: "body", widget: "markdown" }
-  # Our pages e.g. About
-  - name: "pages"
-    label: "Page"
-    folder: "pages"
-    create: false # Change to true to allow editors to create new pages
-    slug: "{{slug}}"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Permalink", name: "permalink", widget: "string" }
-      - { label: "Navigation Title", name: "navtitle", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "hidden", default: "nav" }
-      - { label: "Body", name: "body", widget: "markdown" }
+  # Files
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "Home Page"
+        name: "home"
+        file: "pages/home.md"
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: "Section Heading", name: "heading", widget: "string" }
+          - { label: "Profile photo", name: "imgurl", widget: "image" }
+          - { label: "Section text", name: "text", widget: "text" }
+          - { label: "Tags", name: "tags", widget: "hidden", default: "nav" }
+      - label: "Writing"
+        name: "writing"
+        file: "pages/writing.md"
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: "Section Heading", name: "heading", widget: "string" }
+          - { label: "Profile photo", name: "imgurl", widget: "image" }
+          - { label: "Section text", name: "text", widget: "text" }
+          - { label: "Tags", name: "tags", widget: "hidden", default: "nav" }
