@@ -2,19 +2,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title or renderData.title or metadata.title }}</title>
-  <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  {% set css %}
-    {% include "assets/css/main.css" %}
-  {% endset %}
-  <style>{{ css | cssmin | safe }}</style>
-  {% set js %}
-    {% include "assets/js/inline.js" %}
-    {% include "assets/js/jquery.min.js" %}
-    {% include "assets/js/jquery.scrolly.min.js" %}
-    {% include "assets/js/jquery.scrollex.min.js" %}
-    {% include "assets/js/skel.min.js" %}
-    {% include "assets/js/util.js" %}
-    {% include "assets/js/main.js" %}
-  {% endset %}
-  <script>{{ js | jsmin | safe }}</script>
+  <script async="async" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <link rel="stylesheet" href="/_includes/assets/css/main.css"/>
+
+  <script src="/_includes/assets/js/jquery.min.js"></script>
+  <script src="/_includes/assets/js/jquery.scrolly.min.js"></script>
+  <script src="/_includes/assets/js/jquery.scrollex.min.js"></script>
+  <script src="/_includes/assets/js/skel.min.js"></script>
+  <script src="/_includes/assets/js/util.js"></script>
+  <script src="/_includes/assets/js/main.js"></script>
 </head>
