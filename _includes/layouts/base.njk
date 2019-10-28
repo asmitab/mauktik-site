@@ -3,18 +3,18 @@
 
 	{% include "components/head.njk" %}
 
-	<body>
+	<body class="subpage">
 
-		<header>
-			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em>
-			{% include "components/nav.njk" %}
+		<header id="header">
+			<div class="logo"><a href="/index.html">Mauktik Kulkarni</a></div>
+			<a href="#menu">Menu</a>
 		</header>
 
-		<main>
+		{% include "components/nav.njk" %}
+
+		<div id="main">
 			{{ layoutContent | safe }}
-		</main>
+		</div>
 
 		{% include "components/footer.njk" %}
 

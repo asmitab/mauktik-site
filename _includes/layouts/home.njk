@@ -1,6 +1,39 @@
----
-layout: layouts/base.njk
-section: home
+--- 
+section: home 
 ---
 
-{{ layoutContent | safe }}
+<!doctype html>
+<html {% if section %} data-current="{{ section }}" {% endif %} lang="en">
+
+  {% include "components/head.njk" %}
+
+  <body class="">
+
+    <header id="header" class="alt">
+      <div class="logo">
+        <a href="/index.html"><span>Mauktik Kulkarni</span></a>
+      </div>
+      <a href="#menu">Menu</a>
+    </header>
+
+    {% include "components/nav.njk" %}
+
+    <section id="banner">
+      <div class="inner">
+        <header>
+          <h1>Mauktik Kulkarni</h1>
+          <p>Weaving Stories out of Chaos</p>
+        </header>
+        <a href="#main" class="button big scrolly">About Me</a>
+      </div>
+    </section>
+
+    <div id="main">
+      {{ layoutContent | safe }}
+    </div>
+
+    {% include "components/footer.njk" %}
+
+  </body>
+
+</html>

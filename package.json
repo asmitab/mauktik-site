@@ -9,12 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate"
+    "url": "https://github.com/asmitab/eleventy-netlify-boilerplate"
   },
   "author": {
-    "name": "Dan Urbanowicz",
-    "email": "dan.urbanowicz@gmail.com",
-    "url": "https://www.danurbanowicz.com/"
+    "name": "Asmita Barve",
+    "email": "asmitak83@gmail.com"
   },
   "license": "MIT",
   "bugs": {
