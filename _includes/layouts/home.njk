@@ -11,7 +11,8 @@ section: home
 
     <header id="header" class="alt">
       <div class="logo">
-        <a href="/index.html"><span>Mauktik Kulkarni</span></a>
+        <a href="/index.html">
+          <span>Mauktik Kulkarni</span></a>
       </div>
       <a href="#menu">Menu</a>
     </header>
@@ -29,10 +30,9 @@ section: home
     </section>
 
     <div id="main">
+      {% include "components/section-img-txt.njk" %}
       {{ layoutContent | safe }}
     </div>
-
-    {% include "components/footer.njk" %}
 
   </body>
 

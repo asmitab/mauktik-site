@@ -1,23 +1,24 @@
 <!doctype html>
-<html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
+<html {% if section %} data-current="{{ section }}" {% endif %} lang="en">
 
-	{% include "components/head.njk" %}
+		{% include "components/head.njk" %}
 
-	<body class="subpage">
+		<body class="subpage">
 
-		<header id="header">
-			<div class="logo"><a href="/index.html">Mauktik Kulkarni</a></div>
-			<a href="#menu">Menu</a>
-		</header>
+				<header id="header">
+						<div class="logo">
+								<a href="/index.html">
+										<span>Mauktik Kulkarni</span></a>
+						</div>
+						<a href="#menu">Menu</a>
+				</header>
 
-		{% include "components/nav.njk" %}
+				{% include "components/nav.njk" %}
 
-		<div id="main">
-			{{ layoutContent | safe }}
-		</div>
+				<div id="main">
+						{{ layoutContent | safe }}
+				</div>
 
-		{% include "components/footer.njk" %}
-
-	</body>
+		</body>
 
 </html>
