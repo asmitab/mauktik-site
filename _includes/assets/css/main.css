@@ -1586,7 +1586,7 @@
 
 	body {
 		background-color: #fff;
-		color: #999999;
+		color: #777777;
 	}
 
 	body, input, select, textarea {
@@ -1654,6 +1654,11 @@
 
 	p {
 		margin: 0 0 2em 0;
+		font-size: 1.1em;
+	}
+
+	p a {
+		text-decoration: underline;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -1676,6 +1681,10 @@
 
 			h1 {
 				font-size: 2.5em;
+			}
+
+			p {
+				font-size: 1em;
 			}
 
 		}
@@ -2896,7 +2905,7 @@
 
 		.wrapper.style1 {
 			background-color: #fafafa;
-			color: #999999;
+			color: #777777;
 		}
 
 			.wrapper.style1 input, .wrapper.style1 select, .wrapper.style1 textarea {

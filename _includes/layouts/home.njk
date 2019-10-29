@@ -1,6 +1,8 @@
---- 
-section: home 
 ---
+section: home
+---
+
+{% set sectionlist = collections.homesection %}
 
 <!doctype html>
 <html {% if section %} data-current="{{ section }}" {% endif %} lang="en">
@@ -30,7 +32,7 @@ section: home
     </section>
 
     <div id="main">
-      {% include "components/section-img-txt.njk" %}
+      {% include "components/sectionlist.njk" %}
     </div>
 
   </body>

@@ -3,6 +3,8 @@ layout: layouts/base.njk
 section: page
 ---
 
+{% set sectionlist = collections.filmsection %}
+
 <section class="wrapper">
 	<div class="inner">
     <header class="align-center">
@@ -10,6 +12,6 @@ section: page
     </header>
 
     {{ layoutContent | safe }}
-    {% include "components/section-img-txt.njk" %}
+    {% include "components/sectionlist.njk" %}
   </div>
 </section>
