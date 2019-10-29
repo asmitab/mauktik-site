@@ -21,6 +21,9 @@
       </div>
     </section>
     {% else%}
+    {% if section.data.heading %}
+      <h3>{{ section.data.heading }}</h3>
+    {% endif %}
     {{ section.templateContent | safe }}
     {% endif%}
   {% endfor %}

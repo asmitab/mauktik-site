@@ -8,6 +8,26 @@ backend:
 media_folder: "static/img" # Media files will be stored in the repo under images/uploads
 
 collections:
+  # Film-making page
+  - name: "filmmaking" # Used in routes, e.g., /admin/collections/blog
+    label: "FilmMaking" # Used in the UI
+    label_singular: "Section"
+    folder: "pages/filmmaking" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "hidden" }
+      - { label: "Heading", name: "heading", widget: "string", default: "section", required: false}
+      - { label: "Image", name: "imgurl", widget: "image", required: false }
+      - { label: "Image Hyperlink", name: "imghref", widget: "string", required: false }
+      - {
+          label: "Imgshape",
+          name: "imgshape",
+          widget: "select",
+          options: ["square", "round"],
+          required: false
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
   # Our blog posts
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Post" # Used in the UI
@@ -20,25 +40,3 @@ collections:
       - { label: "Summary", name: "summary", widget: "text" }
       - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
       - { label: "Body", name: "body", widget: "markdown" }
-  # Files
-  - label: "Pages"
-    name: "pages"
-    files:
-      - label: "Home Page"
-        name: "home"
-        file: "pages/home.md"
-        fields:
-          - { label: Title, name: title, widget: string }
-          - { label: "Section Heading", name: "heading", widget: "string" }
-          - { label: "Profile photo", name: "imgurl", widget: "image" }
-          - { label: "Section text", name: "text", widget: "text" }
-          - { label: "Tags", name: "tags", widget: "hidden", default: "nav" }
-      - label: "Writing"
-        name: "writing"
-        file: "pages/writing.md"
-        fields:
-          - { label: Title, name: title, widget: string }
-          - { label: "Section Heading", name: "heading", widget: "string" }
-          - { label: "Profile photo", name: "imgurl", widget: "image" }
-          - { label: "Section text", name: "text", widget: "text" }
-          - { label: "Tags", name: "tags", widget: "hidden", default: "nav" }
