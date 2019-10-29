@@ -1,8 +1,6 @@
-import Post from "/admin/preview-templates/post.js";
 import Section from "/admin/preview-templates/section.js"
 
-// Register the Post component as the preview for entries in the blog collection
-CMS.registerPreviewTemplate("blog", Post);
+// Register the Section component as the preview for entries in each collection
 CMS.registerPreviewTemplate("filmmaking", Section);
 
 CMS.registerPreviewStyle("/_includes/assets/css/main.css");
