@@ -1,29 +1,57 @@
+{% set count = 0 %}
 {% for section in sectionlist %}
   {% if section.data.imgurl %}
-    <section class="wrapper style1">
-      <div class="inner">
-        <!-- 2 Columns -->
-        <div class="flex flex-2">
-          <div class="col col1">
-            <div class="image {{ section.data.imgshape }} fit">
-              {% if section.data.imghref %}
-                <a href="{{ section.data.imghref }}" class="link" target="_blank"><img src="{{ section.data.imgurl }}" alt=""/></a>
-              {% else %}
-                <img src="{{ section.data.imgurl }}" alt=""/>
-              {% endif %}
+    {% set count = count + 1 %}
+    {% if count % 2 == 1 %}
+      <section class="wrapper style1">
+        <div class="inner">
+          <!-- 2 Columns -->
+          <div class="flex flex-2">
+            <div class="col col1">
+              <div class="image {{ section.data.imgshape }} fit">
+                {% if section.data.imghref %}
+                  <a href="{{ section.data.imghref }}" class="link" target="_blank"><img src="{{ section.data.imgurl }}" alt=""/></a>
+                {% else %}
+                  <img src="{{ section.data.imgurl }}" alt=""/>
+                {% endif %}
+              </div>
+            </div>
+            <div class="col col2">
+              <h3>{{ section.data.heading }}</h3>
+              {{ section.templateContent | safe }}
             </div>
           </div>
-          <div class="col col2">
-            <h3>{{ section.data.heading }}</h3>
-            {{ section.templateContent | safe }}
+        </div>
+      </section>
+
+    {% else %}
+      <section class="wrapper style2">
+        <div class="inner">
+          <div class="flex flex-2">
+            <div class="col col2">
+              <h3>{{ section.data.heading }}</h3>
+              {{ section.templateContent | safe }}
+            </div>
+            <div class="col col1 first">
+              <div class="image {{ section.data.imgshape }} fit">
+                {% if section.data.imghref %}
+                  <a href="{{ section.data.imghref }}" class="link"><img src="{{ section.data.imgurl }}" alt=""/></a>
+                {% else %}
+                  <img src="{{ section.data.imgurl }}" alt=""/>
+                {% endif %}
+              </div>
+            </div>
           </div>
         </div>
-      </div>
-    </section>
-    {% else%}
-    {% if section.data.heading %}
-      <h3>{{ section.data.heading }}</h3>
+      </section>
     {% endif %}
-    {{ section.templateContent | safe }}
+
+    {% else%}
+    <div class="inner">
+      {% if section.data.heading %}
+        <h3>{{ section.data.heading }}</h3>
+      {% endif %}
+      {{ section.templateContent | safe }}
+    </div>
     {% endif%}
   {% endfor %}

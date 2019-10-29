@@ -6,12 +6,9 @@ section: page
 {% set sectionlist = collections[sectiontag] %}
 
 <section class="wrapper">
-	<div class="inner">
     <header class="align-center">
       <h1>{{ title }}</h1>
     </header>
 
-    {{ layoutContent | safe }}
     {% include "components/sectionlist.njk" %}
-  </div>
 </section>
