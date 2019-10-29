@@ -47,6 +47,7 @@ collections:
           options: ["square", "round"],
           required: false
         }
+      - { label: "Title", name: "title", widget: "list", default: ["writing"] }
       - { label: "Body", name: "body", widget: "markdown" }
   # Speaking page
   - name: "speaking" # Used in routes, e.g., /admin/collections/blog
