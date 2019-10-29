@@ -3,7 +3,7 @@ layout: layouts/base.njk
 section: page
 ---
 
-{% set sectionlist = collections.filmsection %}
+{% set sectionlist = collections[sectiontag] %}
 
 <section class="wrapper">
 	<div class="inner">

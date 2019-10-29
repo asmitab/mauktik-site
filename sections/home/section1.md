@@ -1,4 +1,5 @@
 ---
+title: section1
 heading: A Storyteller is Born
 tags:
   - homesection
