@@ -28,11 +28,71 @@ collections:
           required: false
         }
       - { label: "Body", name: "body", widget: "markdown" }
+  # Writing page
+  - name: "writing" # Used in routes, e.g., /admin/collections/blog
+    label: "Writing" # Used in the UI
+    label_singular: "Section"
+    folder: "sections/writing" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Heading", name: "heading", widget: "string", default: "section", required: false}
+      - { label: "Image", name: "imgurl", widget: "image", required: false }
+      - { label: "Image Hyperlink", name: "imghref", widget: "string", required: false }
+      - {
+          label: "Imgshape",
+          name: "imgshape",
+          widget: "select",
+          options: ["square", "round"],
+          required: false
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+  # Speaking page
+  - name: "speaking" # Used in routes, e.g., /admin/collections/blog
+    label: "Speaking" # Used in the UI
+    label_singular: "Section"
+    folder: "sections/speaking" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Heading", name: "heading", widget: "string", default: "section", required: false}
+      - { label: "Image", name: "imgurl", widget: "image", required: false }
+      - { label: "Image Hyperlink", name: "imghref", widget: "string", required: false }
+      - {
+          label: "Imgshape",
+          name: "imgshape",
+          widget: "select",
+          options: ["square", "round"],
+          required: false
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
   # Film-making page
   - name: "filmmaking" # Used in routes, e.g., /admin/collections/blog
     label: "FilmMaking" # Used in the UI
     label_singular: "Section"
     folder: "sections/filmmaking" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Heading", name: "heading", widget: "string", default: "section", required: false}
+      - { label: "Image", name: "imgurl", widget: "image", required: false }
+      - { label: "Image Hyperlink", name: "imghref", widget: "string", required: false }
+      - {
+          label: "Imgshape",
+          name: "imgshape",
+          widget: "select",
+          options: ["square", "round"],
+          required: false
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+  # Consulting page
+  - name: "consulting" # Used in routes, e.g., /admin/collections/blog
+    label: "Consulting" # Used in the UI
+    label_singular: "Section"
+    folder: "sections/consulting" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
