@@ -1,6 +1,5 @@
 ---
 heading: A Storyteller is Born
-date: 2011-01-08T04:10:17.000Z # Date is important - decides the order in which sections are listed
 tags:
   - homesection
 imgurl: /static/img/aboutme.jpg

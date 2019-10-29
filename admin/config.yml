@@ -8,11 +8,31 @@ backend:
 media_folder: "static/img" # Media files will be stored in the repo under images/uploads
 
 collections:
+  # Home page
+  - name: "home" # Used in routes, e.g., /admin/collections/blog
+    label: "Home" # Used in the UI
+    label_singular: "Section"
+    folder: "sections/home" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Heading", name: "heading", widget: "string", default: "section", required: false}
+      - { label: "Image", name: "imgurl", widget: "image", required: false }
+      - { label: "Image Hyperlink", name: "imghref", widget: "string", required: false }
+      - {
+          label: "Imgshape",
+          name: "imgshape",
+          widget: "select",
+          options: ["square", "round"],
+          required: false
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
   # Film-making page
   - name: "filmmaking" # Used in routes, e.g., /admin/collections/blog
     label: "FilmMaking" # Used in the UI
     label_singular: "Section"
-    folder: "pages/filmmaking" # The path to the folder where the documents are stored
+    folder: "sections/filmmaking" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
