@@ -4041,9 +4041,6 @@
 				height: 22em;
 			}
 
-			.faux-ui-facia:before {
-				font-size: 1em;
-			}
 		}
 
 		@media screen and (max-width: 480px) {
@@ -4053,6 +4050,11 @@
 			}
 			.slide {
 				height: 15em;
+			}
+
+			.faux-ui-facia:before {
+				height: 10% !important;
+				width: 10% !important;
 			}
 		}
 
