@@ -184,7 +184,6 @@ collections:
           label: "Gallery",
           name: "gallery",
           widget: "list",
-          allow_add: false,
+          allow_add: true,
           field: { label: Image, name: image, widget: image },
         }
-      - { label: "Body", name: "body", widget: "markdown" }
