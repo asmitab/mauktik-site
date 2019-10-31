@@ -1,0 +1,20 @@
+--- 
+layout: layouts/base.njk 
+section: page 
+---
+
+<section class="wrapper">
+  <div class="carousel">
+    {% set count = images.length %}
+    {% set imglength = images.length %}
+    {% for img in images %}
+
+      <input type="checkbox" class="faux-ui-facia">
+      <div class="slide">
+        <img src="{{img}}" alt="Slide {{count}}">
+      </div>
+      {% set count = count - 1 %}
+    {% endfor %}
+
+  </div>
+</section>
