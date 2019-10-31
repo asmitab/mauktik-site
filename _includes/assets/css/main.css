@@ -3965,6 +3965,8 @@
 			width: 5% !important;
 			cursor: pointer !important;
 			opacity: 1 !important;
+			border: none !important;
+			color: white !important;
 		}
 		.faux-ui-facia:checked {
 			z-index: 8 !important;
@@ -4051,6 +4053,16 @@
 			}
 			.slide {
 				height: 15em;
+			}
+		}
+
+		@media screen and (max-width: 330px) {
+
+			.carousel {
+				height: 13em;
+			}
+			.slide {
+				height: 13em;
 			}
 		}
 
