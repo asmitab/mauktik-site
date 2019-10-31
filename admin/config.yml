@@ -17,15 +17,26 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Heading", name: "heading", widget: "string", default: "section", required: false}
+      - {
+          label: "Heading",
+          name: "heading",
+          widget: "string",
+          default: "section",
+          required: false,
+        }
       - { label: "Image", name: "imgurl", widget: "image", required: false }
-      - { label: "Image Hyperlink", name: "imghref", widget: "string", required: false }
+      - {
+          label: "Image Hyperlink",
+          name: "imghref",
+          widget: "string",
+          required: false,
+        }
       - {
           label: "Imgshape",
           name: "imgshape",
           widget: "select",
           options: ["square", "round"],
-          required: false
+          required: false,
         }
       - { label: "Body", name: "body", widget: "markdown" }
   # Writing page
@@ -37,15 +48,26 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Heading", name: "heading", widget: "string", default: "section", required: false}
+      - {
+          label: "Heading",
+          name: "heading",
+          widget: "string",
+          default: "section",
+          required: false,
+        }
       - { label: "Image", name: "imgurl", widget: "image", required: false }
-      - { label: "Image Hyperlink", name: "imghref", widget: "string", required: false }
+      - {
+          label: "Image Hyperlink",
+          name: "imghref",
+          widget: "string",
+          required: false,
+        }
       - {
           label: "Imgshape",
           name: "imgshape",
           widget: "select",
           options: ["square", "round"],
-          required: false
+          required: false,
         }
       - { label: "Tags", name: "tags", widget: "list", default: ["writing"] }
       - { label: "Body", name: "body", widget: "markdown" }
@@ -58,15 +80,26 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Heading", name: "heading", widget: "string", default: "section", required: false}
+      - {
+          label: "Heading",
+          name: "heading",
+          widget: "string",
+          default: "section",
+          required: false,
+        }
       - { label: "Image", name: "imgurl", widget: "image", required: false }
-      - { label: "Image Hyperlink", name: "imghref", widget: "string", required: false }
+      - {
+          label: "Image Hyperlink",
+          name: "imghref",
+          widget: "string",
+          required: false,
+        }
       - {
           label: "Imgshape",
           name: "imgshape",
           widget: "select",
           options: ["square", "round"],
-          required: false
+          required: false,
         }
       - { label: "Body", name: "body", widget: "markdown" }
   # Film-making page
@@ -78,15 +111,26 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Heading", name: "heading", widget: "string", default: "section", required: false}
+      - {
+          label: "Heading",
+          name: "heading",
+          widget: "string",
+          default: "section",
+          required: false,
+        }
       - { label: "Image", name: "imgurl", widget: "image", required: false }
-      - { label: "Image Hyperlink", name: "imghref", widget: "string", required: false }
+      - {
+          label: "Image Hyperlink",
+          name: "imghref",
+          widget: "string",
+          required: false,
+        }
       - {
           label: "Imgshape",
           name: "imgshape",
           widget: "select",
           options: ["square", "round"],
-          required: false
+          required: false,
         }
       - { label: "Body", name: "body", widget: "markdown" }
   # Consulting page
@@ -98,14 +142,49 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Heading", name: "heading", widget: "string", default: "section", required: false}
+      - {
+          label: "Heading",
+          name: "heading",
+          widget: "string",
+          default: "section",
+          required: false,
+        }
       - { label: "Image", name: "imgurl", widget: "image", required: false }
-      - { label: "Image Hyperlink", name: "imghref", widget: "string", required: false }
+      - {
+          label: "Image Hyperlink",
+          name: "imghref",
+          widget: "string",
+          required: false,
+        }
       - {
           label: "Imgshape",
           name: "imgshape",
           widget: "select",
           options: ["square", "round"],
-          required: false
+          required: false,
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+  # Gallery page
+  - name: "gallery" # Used in routes, e.g., /admin/collections/blog
+    label: "Gallery" # Used in the UI
+    label_singular: "Section"
+    folder: "sections/gallery" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Heading",
+          name: "heading",
+          widget: "string",
+          default: "section",
+          required: false,
+        }
+      - {
+          label: "Gallery",
+          name: "gallery",
+          widget: "list",
+          allow_add: false,
+          field: { label: Image, name: image, widget: image },
         }
       - { label: "Body", name: "body", widget: "markdown" }
