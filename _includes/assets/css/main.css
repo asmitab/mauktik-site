@@ -4052,9 +4052,14 @@
 				height: 15em;
 			}
 
-			.faux-ui-facia:before {
-				height: 10% !important;
+			.faux-ui-facia {
+				top: 30% !important;
+				height: 30% !important;
 				width: 10% !important;
+			}
+
+			.faux-ui-facia:before {
+				font-size: 4em;
 			}
 		}
 
