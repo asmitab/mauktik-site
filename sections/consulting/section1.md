@@ -1,6 +1,6 @@
 ---
 title: section1
-heading: section
+heading: ''
 tags:
   - consulting
 ---
