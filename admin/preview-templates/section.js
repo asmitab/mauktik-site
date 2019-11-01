@@ -7,7 +7,10 @@ const Page = createClass({
   render() {
     const entry = this.props.entry;
 
-    if (entry.getIn(["data", "imgurl"])) {
+    if (entry.getIn(["data", "gallery"])) {
+      return html`<p>Gallery!</p>`;
+
+    } else if (entry.getIn(["data", "imgurl"])) {
       return html`
       <div class="flex flex-2">
         <div class="col col1">
