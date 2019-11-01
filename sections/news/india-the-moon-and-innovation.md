@@ -1,6 +1,6 @@
 ---
-title: 'India, the Moon and Innovation'
-heading: section
+title: section1
+heading: 'India, the Moon and Innovation'
 imgurl: /static/img/juggernaut-logo.png
 imghref: 'https://thejuggernaut.com/article?id=O0FiGDeyqBSMN7jcZcxm5'
 imgshape: square
