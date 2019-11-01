@@ -6,7 +6,9 @@ const html = htm.bind(h);
 const Page = createClass({
   render() {
     const entry = this.props.entry;
-    if (entry.getIn(["data", "gallery"])) {
+    console.log("entry: ", entry);
+
+    /*if (entry.getIn(["data", "gallery"])) {
       const images = entry.getIn(["data", "gallery"]);
       let imgHtml = ``;
 
@@ -16,6 +18,7 @@ const Page = createClass({
           <img src="${img}" alt="Gallery Image">
         </div>`
           ;
+        console.log("html: ", imgHtml);
       }
 
       return html`
@@ -26,30 +29,30 @@ const Page = createClass({
       </section >
       `;
 
-    } else {
-      if (entry.getIn(["data", "imgurl"])) {
-        return html`
-  < div class="flex flex-2" >
-    <div class="col col1">
-      <div class="image ${entry.getIn([" data", "imgshape"])} fit">
-            <a href="${entry.getIn([" data", "imghref"])}" class="link" target="_blank">
-              <img src="${entry.getIn([" data", "imgurl"])}" alt=""/></a>
-        </div >
-      </div >
-  <div class="col col2">
-    <h3>${entry.getIn(["data", "heading"])}</h3>
-    ${this.props.widgetFor("body")}
-  </div>
-    </div > `;
-      } else {
-        return html`
-  < main >
-  <h1>${entry.getIn(["data", "heading"], null)}</h1>
+    } else {*/
+    if (entry.getIn(["data", "imgurl"])) {
+      return html`
+          < div class="flex flex-2" >
+            <div class="col col1">
+              <div class="image ${entry.getIn([" data", "imgshape"])} fit">
+                <a href="${entry.getIn([" data", "imghref"])}" class="link" target="_blank">
+                <img src="${entry.getIn([" data", "imgurl"])}" alt=""/></a>
+              </div >
+            </div >
 
-${ this.props.widgetFor("body")}
-    </main > `;
-      }
+            <div class="col col2">
+              <h3>${entry.getIn(["data", "heading"])}</h3>
+              ${this.props.widgetFor("body")}
+            </div>
+          </div > `;
+    } else {
+      return html`
+          < main >
+            <h1>${entry.getIn(["data", "heading"], null)}</h1>
+              ${ this.props.widgetFor("body")}
+          </main > `;
     }
+    //    }
   }
 });
 
