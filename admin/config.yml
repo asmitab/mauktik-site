@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: fixes # Branch to update (optional; defaults to master)
+  branch: master # Branch to update (optional; defaults to master)
 
 # Uncomment below to enable drafts
 # publish_mode: editorial_workflow
@@ -187,4 +187,3 @@ collections:
           allow_add: true,
           field: { label: Image, name: image, widget: image },
         }
-      - { label: "Body", name: "body", widget: "markdown" }
