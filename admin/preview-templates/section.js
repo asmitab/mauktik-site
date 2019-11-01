@@ -8,7 +8,20 @@ const Page = createClass({
     const entry = this.props.entry;
 
     if (entry.getIn(["data", "gallery"])) {
-      return html`<p>Gallery!</p>`;
+      const images = entry.getIn(["data", "gallery"]);
+
+      return html`
+      <section class="wrapper">
+      <div class="carousel">
+        ${ images.map(img => html`
+            <input type="checkbox" class="faux-ui-facia"/>
+            <div class="slide">
+              <img src="${img}" alt="Gallery Image"/>
+            </div>
+        `)}
+      </div>
+    </section>
+    `;
 
     } else if (entry.getIn(["data", "imgurl"])) {
       return html`
