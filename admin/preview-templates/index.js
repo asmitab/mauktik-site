@@ -4,9 +4,10 @@ import Section from "/admin/preview-templates/section.js"
 CMS.registerPreviewTemplate("home", Section);
 CMS.registerPreviewTemplate("filmmaking", Section);
 CMS.registerPreviewTemplate("writing", Section);
-CMS.registerPreviewTemplate("gallery", Section);
 CMS.registerPreviewTemplate("speaking", Section);
 CMS.registerPreviewTemplate("consulting", Section);
+CMS.registerPreviewTemplate("gallery", Section);
+CMS.registerPreviewTemplate("news", Section);
 
 
 CMS.registerPreviewStyle("/_includes/assets/css/main.css");

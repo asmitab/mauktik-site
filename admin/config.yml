@@ -206,8 +206,8 @@ collections:
       - { label: "Tags", name: "tags", widget: "list", default: ["gallery"] }
       - { label: "Body", name: "body", widget: "markdown", required: false }
   - name: "news" # Used in routes, e.g., /admin/collections/blog
-    label: "news" # Used in the UI
-    label_singular: "news"
+    label: "News" # Used in the UI
+    label_singular: "section"
     folder: "sections/news" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -234,5 +234,5 @@ collections:
           options: ["square", "round"],
           required: false,
         }
-      - { label: "Tags", name: "tags", widget: "list", default: ["consulting"] }
+      - { label: "Tags", name: "tags", widget: "list", default: ["news"] }
       - { label: "Body", name: "body", widget: "markdown", required: false }
