@@ -13,15 +13,16 @@ const Page = createClass({
       for (img of images) {
         imgHtml += `<input type="checkbox" class="faux-ui-facia">
         <div class="slide">
-          <img src="${img}" alt="Gallery Image">`;
+          <img src="${img}" alt="Gallery Image">
+        </div>`
+          ;
       }
 
       return html`
       <section class="wrapper">
         <div class="carousel">
-        ${imgHtml}
+          ${imgHtml}
         </div >
-      </div >
       </section >
       `;
 
