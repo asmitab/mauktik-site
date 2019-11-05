@@ -3125,11 +3125,11 @@
 			}
 
 			.wrapper.style2 a {
-				color: #999999;
+				color: #333333;
 			}
 
 				.wrapper.style2 a:hover {
-					color: rgba(153, 153, 153, 0.5);
+					color: rgba(53, 53, 53, 0.5);
 				}
 
 			.wrapper.style2 strong, .wrapper.style2 b {
