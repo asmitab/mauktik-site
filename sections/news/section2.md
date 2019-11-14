@@ -1,5 +1,5 @@
 ---
-title: section2
+title: section3
 heading: The Constitutional Immorality of Abrogating India’s Article 370
 imgurl: /static/img/fairobserver-logo.png
 imghref: >-
