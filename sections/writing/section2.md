@@ -1,8 +1,8 @@
 ---
 title: section2
 heading: A Ghost of Che
-imgurl: /static/img/a-ghost-ot-che-cover-187x300.jpg
-imghref: "https://www.amazon.com/Ghost-Che-Motorcycle-Through-Space-ebook/dp/B079K1DLDX/"
+imgurl: /static/img/a-ghost-of-che-cover-high-res.png
+imghref: 'https://www.amazon.com/Ghost-Che-Motorcycle-Through-Space-ebook/dp/B079K1DLDX/'
 imgshape: square
 tags:
   - writing
