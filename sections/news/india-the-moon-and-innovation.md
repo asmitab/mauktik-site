@@ -1,5 +1,5 @@
 ---
-title: section1
+title: section2
 heading: 'India, the Moon and Innovation'
 imgurl: /static/img/juggernaut-logo.png
 imghref: 'https://thejuggernaut.com/article?id=O0FiGDeyqBSMN7jcZcxm5'
