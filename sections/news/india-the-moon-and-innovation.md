@@ -7,4 +7,4 @@ imgshape: square
 tags:
   - news
 ---
-Article by Mauktik on India's attempted moon landing and how India can become an innovation powerhouse, titled 'India, the Moon, and Innovation'
+[Article](https://thejuggernaut.com/article?id=O0FiGDeyqBSMN7jcZcxm5) by Mauktik on India's attempted moon landing and how India can become an innovation powerhouse, titled 'India, the Moon, and Innovation'
