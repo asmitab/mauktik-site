@@ -1,6 +1,6 @@
 ---
 title: section6
-heading: ''
+heading: Op-Eds
 tags:
   - writing
 ---
