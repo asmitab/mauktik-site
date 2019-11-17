@@ -1,7 +1,7 @@
 ---
 title: section4
 heading: ''
-imgurl: /static/img/lime-diaries-talk.jpg
+imgurl: ''
 imghref: 'https://www.youtube.com/watch?v=-iF3hQzBBSE'
 tags:
   - speaking
