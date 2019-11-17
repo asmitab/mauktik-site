@@ -1,12 +1,11 @@
 ---
 title: section2
 heading: Riding on a Sunbeam
-date: 2011-02-08T04:10:17.000Z
+imgurl: ''
+imghref: 'https://www.youtube.com/watch?v=w0qx9Bn22mk'
+imgshape: square
 tags:
   - filmmaking
-imgurl: https://img.youtube.com/vi/w0qx9Bn22mk/0.jpg
-imghref: https://www.youtube.com/watch?v=w0qx9Bn22mk
-imgshape: square
 ---
 
 Directed by Brahmanand Singh and edited by Irene Dhar Malik, both national award winners in India, 'Riding on a Sunbeam' explores the social, cultural, economic and religious contradictions of India in a thought-provoking, non-touristy way. It is available for streaming on [YouTube](https://www.youtube.com/watch?v=9kxwiE0xdvM) in India, and on [iTunes](https://itunes.apple.com/us/movie/riding-on-a-sunbeam/id1102679745) and [Amazon](https://www.amazon.com/Riding-Sunbeam-Mauktik-Kulkarni/dp/B01C7V3HL8/ref=sr_1_1?s=instant-video&ie=UTF8&qid=1456838296&sr=1-1&keywords=Riding+On+a+SUnbeam) overseas.
