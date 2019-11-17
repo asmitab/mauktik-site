@@ -1,7 +1,7 @@
 ---
 title: section3
 heading: ''
-imgurl: /static/img/mtm-talk.jpg
+imgurl: ''
 imghref: 'https://www.youtube.com/watch?v=xR6Zzoiymxc'
 tags:
   - speaking
