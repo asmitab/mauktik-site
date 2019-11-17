@@ -1,7 +1,7 @@
 ---
 title: section5
 heading: ''
-imgurl: /static/img/vedh-talk.jpg
+imgurl: ''
 imghref: 'https://www.youtube.com/watch?v=hvErdZM1-y8'
 tags:
   - speaking
