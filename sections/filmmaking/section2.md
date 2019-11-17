@@ -1,7 +1,7 @@
 ---
 title: section2
 heading: Riding on a Sunbeam
-imgurl: ''
+imgurl: /static/img/roas-trailer-photo.jpg
 imghref: 'https://www.youtube.com/watch?v=w0qx9Bn22mk'
 imgshape: square
 tags:
