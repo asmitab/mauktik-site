@@ -30,8 +30,6 @@ tags:
 
 **Times of India:** [**Article**](https://timesofindia.indiatimes.com/city/nagpur/A-travel-guru-bit-hard-by-the-travel-bug/articleshow/40875655.cms) **by Aparna Nair about 'A Travel Guru Bit Hard by the Travel Bug'**
 
-**Wishberry:** [**Interview**](https://www.wishberry.in/blog/this-is-what-you-get-when-a-neurologist-and-an-anthropologist-backpack-the-country/) **by Team Wishberry on Crowdfunding**
-
 **Mid-Day:** [**Article**](https://www.mid-day.com/articles/new-documentary-takes-you-from-mumbai-to-nagaland-via-10-cities-on-boat-bike-and-bullock/17262179) **about 'Riding on a Sunbeam' by Krutika Behrawala**
 
 **Rediff: As a special correspondent for FIFA World Cup 2014, a series of by** [**articles**](https://realtime.rediff.com/news/mauktik-kulkarni?service=site-search) **Mauktik Kulkarni**
