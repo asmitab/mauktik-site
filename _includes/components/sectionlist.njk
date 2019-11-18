@@ -15,12 +15,15 @@
     </section>
   {% else %}
     {% if section.data.imgurl %}
+      {% set hasText = true if section.templateContent else 
+        false %}
       {% set count = count + 1 %}
       {% if count % 2 == 1 %}
         <section class="wrapper style1">
           <div class="inner">
             <!-- 2 Columns -->
-            <div class="flex flex-2">
+
+            <div {% if hasText %} class="flex flex-2" {% endif %}>
               <div class="col col1">
                 <div class="image {{ section.data.imgshape }} fit">
                   {% if section.data.imghref %}
@@ -41,7 +44,7 @@
       {% else %}
         <section class="wrapper style2">
           <div class="inner">
-            <div class="flex flex-2">
+            <div {% if hasText %} class="flex flex-2" {% endif %}>
               <div class="col col2">
                 <h3>{{ section.data.heading }}</h3>
                 {{ section.templateContent | safe }}
@@ -61,12 +64,14 @@
       {% endif %}
 
       {% else%}
-      <div class="inner">
-        {% if section.data.heading %}
-          <h3>{{ section.data.heading }}</h3>
-        {% endif %}
-        {{ section.templateContent | safe }}
-      </div>
+      <section class="wrapper">
+        <div class="inner">
+          {% if section.data.heading %}
+            <h3>{{ section.data.heading }}</h3>
+          {% endif %}
+          {{ section.templateContent | safe }}
+        </div>
+      </section>
       {% endif%}
     {% endif %}
   {% endfor %}
