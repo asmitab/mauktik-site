@@ -38,6 +38,6 @@ tags:
 
 **Loksatta:** [**Article**](https://www.loksatta.com/lokrang-news/world-trip-by-mauktik-kulkarni-202309/) **about the round-the-world trip by Amruta Karkare**
 
-****[**Review**](http://www.medina502.com/classes/a-ghost-of-che.html) **of 'A Ghost of Che' by Prof. Manolo Medina, literature professor at University of Louisville**
+**A book** [**review**](http://www.medina502.com/classes/a-ghost-of-che.html) **of 'A Ghost of Che' by Prof. Manolo Medina, literature professor at University of Louisville**
 
 **Flying Chickadee:** [**Article**](http://www.flyingchickadee.com/Microzines/Courageous%20Creativity%20March2013.pdf) **about 'Courageous Creativity' by Mauktik Kulkarni**
