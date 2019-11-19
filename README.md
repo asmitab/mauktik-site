@@ -1,8 +1,9 @@
-## [Site](https://www.mauktik.me/)
-
-Based on top of the [Eleventy Netlify boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate.git) repo, this has the following features.
+## Site
+https://www.mauktik.me/
 
 ## Features
+
+Based on top of the [Eleventy Netlify boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate.git) repo, this has the following features.
 
 * Netlify CMS - lets you edit web pages through https://www.mauktik.me/admin
 * Responsive CSS (looks good on devices)
