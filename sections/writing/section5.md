@@ -2,6 +2,7 @@
 title: section5
 heading: A La Sombra del Che
 imgurl: /static/img/cover-design-a-la-sombra-del-che-for-website.jpg
+imghref: 'https://www.amazon.com/sombra-del-Che-motocicleta-espacio-ebook/dp/B07PP8TN78/'
 imgshape: square
 tags:
   - writing
