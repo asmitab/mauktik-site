@@ -4,6 +4,8 @@ heading: ''
 tags:
   - news
 ---
+**Fair Observer:** [**Article**](https://www.fairobserver.com/region/central_south_asia/democracy-india-israel-benjamin-netanyahu-brexit-donald-trump-impeachment-world-news-79482/) **by Mauktik on the recent political developments in the US, the UK and Israel, and lessons for the Indian democracy.**
+
 **The Juggernaut:** [**Article**](https://thejuggernaut.com/article?id=O0FiGDeyqBSMN7jcZcxm5) **by Mauktik on India's attempted moon landing and how India can become an innovation powerhouse, titled 'India, the Moon, and Innovation'.**
 
 **Fair Observer:** [**Article**](https://www.fairobserver.com/region/central_south_asia/kashmir-news-india-article-370-jammu-kashmir-world-news-32390/) **by Mauktik on the evolving situation in Kashmir titled 'The Constitutional Immorality of Abrogating India's Article 370'.**
