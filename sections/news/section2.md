@@ -4,7 +4,7 @@ heading: ''
 tags:
   - news
 ---
-**The Juggernaut: Article by Mauktik on the sweeping victory of India's Aam Aadmi Party in Delhi and whether it can take on the BJP nationally.**
+**The Juggernaut: *[Article](https://www.thejuggernaut.com/india-aam-aadmi-party)* by Mauktik on the sweeping victory of India's Aam Aadmi Party in Delhi and whether it can take on the BJP nationally.**
 
 **Fair Observer:** [](https://www.fairobserver.com/region/central_south_asia/india-citizenship-amendment-act-protests-bjp-aap-win-delhi-news-13321/)***[Article](https://www.fairobserver.com/region/central_south_asia/india-citizenship-amendment-act-protests-bjp-aap-win-delhi-news-13321/)* by Mauktik on the recently passed Citizenship Amendment Act in India and the elections in the state of Delhi.**
 
