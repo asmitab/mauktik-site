@@ -4,9 +4,9 @@ heading: ""
 tags:
   - news
 ---
-**Mint: *[Article](https://www.livemint.com/opinion/columns/science-and-politics-should-not-be-at-odds-11587211205573.html)* by Mauktik about science, politics and the pandemic, and why no FDR, Gandhi or Mandela will emerge out of the crisis.**
+**LiveMint: *[Article](https://www.livemint.com/opinion/columns/science-and-politics-should-not-be-at-odds-11587211205573.html)* by Mauktik about science, politics and the pandemic, and why no FDR, Gandhi or Mandela will emerge out of the crisis.**
 
-**Mint: *[Article](https://www.livemint.com/opinion/online-views/life-has-its-share-from-phone-free-globetrotting-to-quarantine-11585544890472.html)* by Mauktik recounting experiences from the 36-country round-the-world trip that are helping him cope with self-isolation.**
+**LiveMint: *[Article](https://www.livemint.com/opinion/online-views/life-has-its-share-from-phone-free-globetrotting-to-quarantine-11585544890472.html)* by Mauktik recounting experiences from the 36-country round-the-world trip that are helping him cope with self-isolation.**
 
 **The Juggernaut: *[Article](https://www.thejuggernaut.com/india-aam-aadmi-party)* by Mauktik on the sweeping victory of India's Aam Aadmi Party in Delhi and whether it can take on the BJP nationally.**
 
@@ -30,7 +30,7 @@ tags:
 
 **National Geographic Traveller India:** ***[Interview](https://www.magzter.com/articles/1304/231845/5965bc80491cc)*** **titled 'Revolutionary Road' by Riddhi Doshi for the 5th Anniversary Edition**
 
-**Mint:** ***[Article](https://www.livemint.com/Sundayapp/e6QXZ1rhcqNOyeD4uJe9MJ/An-irrational-neuroscientist.html)*** **titled 'An Irrational Neuroscientist' by Mauktik Kulkarni about his journey from neuroscience to film making**
+**LiveMint:** ***[Article](https://www.livemint.com/Sundayapp/e6QXZ1rhcqNOyeD4uJe9MJ/An-irrational-neuroscientist.html)*** **titled 'An Irrational Neuroscientist' by Mauktik Kulkarni about his journey from neuroscience to film making**
 
 **Scroll:** ***[Article](https://scroll.in/reel/808715/censor-board-finally-clears-a-documentary-featuring-captive-animals-cutting-out-the-animals)*** **about the censor board troubles of 'Riding on a Sunbeam' by Nandini Ramnath**
 
