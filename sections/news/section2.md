@@ -4,6 +4,8 @@ heading: ""
 tags:
   - news
 ---
+**Scroll: *[](https://www.livemint.com/opinion/columns/science-and-politics-should-not-be-at-odds-11587211205573.html)[Personal essay](https://scroll.in/article/960239/the-personal-is-political-how-events-on-two-continents-drove-a-wedge-between-my-father-and-me)* by Mauktik recounting the political journeys of the US and India intertwined with his family history.**
+
 **LiveMint: *[Article](https://www.livemint.com/opinion/columns/science-and-politics-should-not-be-at-odds-11587211205573.html)* by Mauktik about science, politics and the pandemic, and why no FDR, Gandhi or Mandela will emerge out of the crisis.**
 
 **LiveMint: *[Article](https://www.livemint.com/opinion/online-views/life-has-its-share-from-phone-free-globetrotting-to-quarantine-11585544890472.html)* by Mauktik recounting experiences from the 36-country round-the-world trip that are helping him cope with self-isolation.**
