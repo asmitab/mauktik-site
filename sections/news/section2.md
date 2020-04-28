@@ -4,7 +4,9 @@ heading: ""
 tags:
   - news
 ---
-**Scroll: *[](https://www.livemint.com/opinion/columns/science-and-politics-should-not-be-at-odds-11587211205573.html)[Personal essay](https://scroll.in/article/960239/the-personal-is-political-how-events-on-two-continents-drove-a-wedge-between-my-father-and-me)* by Mauktik recounting the political journeys of the US and India intertwined with his family history.**
+**Fair Observer:** [](https://www.livemint.com/opinion/columns/science-and-politics-should-not-be-at-odds-11587211205573.html)***[](https://scroll.in/article/960239/the-personal-is-political-how-events-on-two-continents-drove-a-wedge-between-my-father-and-me)[Article](https://www.fairobserver.com/region/central_south_asia/mauktik-kulkarni-india-hydroxychloroquine-generics-covid-19-drug-trials-news-15511/)* by Mauktik on the hydroxychloroquine controversy during the Covid-19 pandemic its pharma industry back story.**
+
+**Scroll:** [](https://www.livemint.com/opinion/columns/science-and-politics-should-not-be-at-odds-11587211205573.html)***[Personal essay](https://scroll.in/article/960239/the-personal-is-political-how-events-on-two-continents-drove-a-wedge-between-my-father-and-me)* by Mauktik recounting the political journeys of the US and India intertwined with his family history.**
 
 **LiveMint: *[Article](https://www.livemint.com/opinion/columns/science-and-politics-should-not-be-at-odds-11587211205573.html)* by Mauktik about science, politics and the pandemic, and why no FDR, Gandhi or Mandela will emerge out of the crisis.**
 
