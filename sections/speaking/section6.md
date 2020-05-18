@@ -6,7 +6,7 @@ tags:
 ---
 **Here is a sample of other topics Mauktik has discussed at invited lectures at various forums:**
 
-**"The Art of Storytelling" - IIT Gandhinagar (2019), VNIT Nagpur (2019), Arista Networks, Pune, India (2019)**
+**"The Art of Storytelling" - IIT Gandhinagar (2019), Atos, Mumbai (2019), VNIT Nagpur (2019), Arista Networks, Pune, India (2019)**
 
 **"[Media Censorship & India's Economic Growth](https://india.georgetown.edu/events/film-screening-riding-on-a-sunbeam)" - India Ideas Conference, Georgetown University, Washington, DC, USA (2018)**
 
