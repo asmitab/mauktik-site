@@ -4,6 +4,8 @@ heading: ""
 tags:
   - news
 ---
+**Fair Observer:** ***[Article](https://www.fairobserver.com/region/central_south_asia/mauktik-kulkarni-narendra-modi-six-years-office-economy-unemployment-covid-19-india-news-14251/)* by Mauktik on India's vanishing demographic dividend as Prime Minister Narendra Modi completes six years in office.**
+
 **Fair Observer:** [](https://www.livemint.com/opinion/columns/science-and-politics-should-not-be-at-odds-11587211205573.html)[](https://scroll.in/article/960239/the-personal-is-political-how-events-on-two-continents-drove-a-wedge-between-my-father-and-me)***[Article](https://www.fairobserver.com/region/central_south_asia/mauktik-kulkarni-india-hydroxychloroquine-generics-covid-19-drug-trials-news-15511/)* by Mauktik on the hydroxychloroquine controversy during the Covid-19 pandemic and its pharma industry back story.**
 
 **Scroll:** [](https://www.livemint.com/opinion/columns/science-and-politics-should-not-be-at-odds-11587211205573.html)***[Personal essay](https://scroll.in/article/960239/the-personal-is-political-how-events-on-two-continents-drove-a-wedge-between-my-father-and-me)* by Mauktik recounting the political journeys of the US and India intertwined with his family history.**
