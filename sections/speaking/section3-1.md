@@ -1,7 +1,7 @@
 ---
 title: section3
 heading: ""
-imgurl: ""
+imgurl: /static/img/suraj-and-nandita-thumbnail.jpeg
 imghref: https://www.youtube.com/watch?v=ILrwlufQTdw
 tags:
   - speaking
