@@ -4,7 +4,7 @@ heading: ""
 tags:
   - news
 ---
-**Fair Observer:** ***[Article](https://www.fairobserver.com/region/central_south_asia/mauktik-kulkarni-narendra-modi-six-years-office-economy-unemployment-covid-19-india-news-14251/)* by Mauktik on the reasons behind India's military standoff with China, its short-term implications, and longer term solutions.**
+**Fair Observer:** ***[Article](https://www.fairobserver.com/region/central_south_asia/mauktik-kulkarni-india-china-standoff-narendra-modi-economy-nationalism-trade-news-14100/)* by Mauktik on the reasons behind India's military standoff with China, its short-term implications, and longer term solutions.**
 
 **Scroll: *[Personal essay](https://scroll.in/article/963715/first-person-my-caste-privilege-in-india-blinded-me-to-the-reality-of-racism-in-the-us)* by Mauktik about the Black Lives Matter movement, George Floyd's tragic death, and how caste privileges blinded him to race in the US.**
 
