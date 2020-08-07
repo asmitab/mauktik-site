@@ -4,7 +4,7 @@ heading: ""
 tags:
   - news
 ---
-**Loksatta: [Interview](https://www.loksatta.com/chaturang-news/blogger-and-short-film-maker-mauktik-kulkarni-garja-marathicha-jayjaykar-dd70-2240216/) by Mugdha Godse and Shubhangi Joshi exploring the pros and cons of Marathi vs. English as the medium of instruction for primary and secondary education (in Marathi).**
+**Loksatta: *[Interview](https://www.loksatta.com/chaturang-news/blogger-and-short-film-maker-mauktik-kulkarni-garja-marathicha-jayjaykar-dd70-2240216/)* by Mugdha Godse and Shubhangi Joshi exploring the pros and cons of Marathi vs. English as the medium of instruction for primary and secondary education (in Marathi).**
 
 **Fair Observer:** ***[Article](https://www.fairobserver.com/region/central_south_asia/mauktik-kulkarni-india-china-standoff-narendra-modi-economy-nationalism-trade-news-14100/)* by Mauktik on the reasons behind India's military standoff with China, its short-term implications, and longer term solutions.**
 
