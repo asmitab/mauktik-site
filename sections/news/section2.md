@@ -4,6 +4,8 @@ heading: ""
 tags:
   - news
 ---
+**Loksatta: [Interview](https://www.loksatta.com/chaturang-news/blogger-and-short-film-maker-mauktik-kulkarni-garja-marathicha-jayjaykar-dd70-2240216/) by Mugdha Godse and Shubhangi Joshi exploring the pros and cons of Marathi vs. English as the medium of instruction for primary and secondary education (in Marathi).**
+
 **Fair Observer:** ***[Article](https://www.fairobserver.com/region/central_south_asia/mauktik-kulkarni-india-china-standoff-narendra-modi-economy-nationalism-trade-news-14100/)* by Mauktik on the reasons behind India's military standoff with China, its short-term implications, and longer term solutions.**
 
 **Scroll: *[Personal essay](https://scroll.in/article/963715/first-person-my-caste-privilege-in-india-blinded-me-to-the-reality-of-racism-in-the-us)* by Mauktik about the Black Lives Matter movement, George Floyd's tragic death, and how caste privileges blinded him to race in the US.**
@@ -56,6 +58,6 @@ tags:
 
 **Rediff: As a special correspondent for FIFA World Cup 2014, a series of** ***[articles](https://realtime.rediff.com/news/mauktik-kulkarni?service=site-search)*** **by** **Mauktik Kulkarni.**
 
-**Loksatta:** ***[Article](https://www.loksatta.com/lokrang-news/world-trip-by-mauktik-kulkarni-202309/)*** **about the round-the-world trip by Amruta Karkare.**
+**Loksatta:** ***[Article](https://www.loksatta.com/lokrang-news/world-trip-by-mauktik-kulkarni-202309/)*** **about the round-the-world trip by Amruta Karkare (in Marathi).**
 
 **A book** ***[review](http://www.medina502.com/classes/a-ghost-of-che.html)*** **of 'A Ghost of Che' by Prof. Manolo Medina, literature professor at University of Louisville.**
