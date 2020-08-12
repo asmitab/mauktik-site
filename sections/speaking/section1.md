@@ -7,8 +7,8 @@ gallery:
   - /static/img/infosys-screening.jpg
   - /static/img/roas.jpg
   - /static/img/ncpa.jpg
-  - /static/img/us-consulate-mumbai.jpg
   - /static/img/tie-pune.jpg
+  - /static/img/us-consulate-mumbai.jpg
 imgurl: ""
 tags:
   - speaking
