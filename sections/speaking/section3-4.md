@@ -1,6 +1,6 @@
 ---
 title: section3
-heading: section
+heading: ""
 imgurl: /static/img/mi-marathi.jpg
 imghref: https://www.youtube.com/watch?v=afF8jJWeMgM
 tags:
