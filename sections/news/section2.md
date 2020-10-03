@@ -12,7 +12,7 @@ tags:
 
 **Scroll: *[Personal essay](https://scroll.in/article/963715/first-person-my-caste-privilege-in-india-blinded-me-to-the-reality-of-racism-in-the-us)* by Mauktik about the Black Lives Matter movement, George Floyd's tragic death, and how caste privileges blinded him to race in the US.**
 
-**All India Radio: [Interview](https://drive.google.com/file/d/1sVsb5BPrGpzAKQSuvqDmenI82rBCur9J/view) by Amruta Karkare about wanderlust and how unplanned backpacking has the power to change life trajectories (in Marathi).**
+**All India Radio: *[Interview](https://drive.google.com/file/d/1sVsb5BPrGpzAKQSuvqDmenI82rBCur9J/view)* by Amruta Karkare about wanderlust and how unplanned backpacking has the power to change life trajectories (in Marathi).**
 
 **Fair Observer:** ***[Article](https://www.fairobserver.com/region/central_south_asia/mauktik-kulkarni-narendra-modi-six-years-office-economy-unemployment-covid-19-india-news-14251/)* by Mauktik on India's vanishing demographic dividend as Prime Minister Narendra Modi completes six years in office.**
 
