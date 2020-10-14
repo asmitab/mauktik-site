@@ -4,6 +4,8 @@ heading: ""
 tags:
   - news
 ---
+**National Public Radio: *[Interview](https://www.npr.org/2020/10/13/923170360/what-does-caste-privilege-mean-for-south-asians-in-the-u-s)* on NPR's Morning Edition by Lauren Frayer regarding the relevance of the Black Lives Matter movement to Indians and caste privileges in India.**
+
 **Fair Observer: *[Article](https://www.fairobserver.com/politics/mauktik-kulkarni-hindu-nationalism-narendra-modi-ayodhya-temple-republicanism-india-news-19112/)* by Mauktik on the jarring contrast between Indians celebrating Kamala Harris's VP nomination and Narendra Modi laying the foundation of a temple for Hindu god Ram.**
 
 **Loksatta: *[Interview](https://www.loksatta.com/chaturang-news/blogger-and-short-film-maker-mauktik-kulkarni-garja-marathicha-jayjaykar-dd70-2240216/)* by Mugdha Godse and Shubhangi Joshi exploring the pros and cons of Marathi vs. English as the medium of instruction for primary and secondary education (in Marathi).**
