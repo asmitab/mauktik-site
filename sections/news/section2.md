@@ -4,6 +4,8 @@ heading: ""
 tags:
   - news
 ---
+**BBC News Marathi: *[Panel discussion](https://www.youtube.com/watch?v=oSQ1RsDTNOI)* on the 2020 US elections and what the results mean for India-US relations (in Marathi).**
+
 **National Public Radio: *[Interview](https://www.npr.org/2020/10/13/923170360/what-does-caste-privilege-mean-for-south-asians-in-the-u-s)* on NPR's Morning Edition by Lauren Frayer regarding the relevance of the Black Lives Matter movement to Indians and caste privileges in India.**
 
 **Fair Observer: *[Article](https://www.fairobserver.com/politics/mauktik-kulkarni-hindu-nationalism-narendra-modi-ayodhya-temple-republicanism-india-news-19112/)* by Mauktik on the jarring contrast between Indians celebrating Kamala Harris's VP nomination and Narendra Modi laying the foundation of a temple for Hindu god Ram.**
