@@ -4,6 +4,8 @@ heading: ""
 tags:
   - news
 ---
+**Fair Observer: *[Article](https://www.fairobserver.com/region/north_america/mauktik-kulkarni-mitch-mcconnell-senate-minority-leader-capitol-donald-trump-us-politics-news-16251/)* by Mauktik on the Jan 6th, 2021 attack on the US Congress and Mitch McConnell's legacy.**
+
 **Scroll: *[Article](https://scroll.in/global/978840/what-donald-trump-told-us-about-the-good-bad-and-ugly-aspects-of-the-usa)* by Mauktik on the good, the bad, and the ugly about the 2020 US presidential elections.**
 
 **BBC News Marathi: *[Panel discussion](https://www.youtube.com/watch?v=oSQ1RsDTNOI)* on the 2020 US elections and what the results mean for India-US relations (in Marathi).**
