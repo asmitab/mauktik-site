@@ -4,6 +4,8 @@ heading: ""
 tags:
   - news
 ---
+**Scroll: *[Article](https://scroll.in/article/983614/as-robots-dance-in-the-us-and-animation-films-get-soul-a-cautionary-tale-brews-in-india)* by Mauktik about the alchemy of innovation and creativity, which still make the US an interesting experiment.**
+
 **Fair Observer: *[Article](https://www.fairobserver.com/region/north_america/mauktik-kulkarni-mitch-mcconnell-senate-minority-leader-capitol-donald-trump-us-politics-news-16251/)* by Mauktik on the Jan 6th, 2021 attack on the US Congress and Mitch McConnell's legacy.**
 
 **Scroll: *[Article](https://scroll.in/global/978840/what-donald-trump-told-us-about-the-good-bad-and-ugly-aspects-of-the-usa)* by Mauktik on the good, the bad, and the ugly about the 2020 US presidential elections.**
