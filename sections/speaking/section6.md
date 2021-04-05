@@ -16,7 +16,7 @@ tags:
 
 **"[My Story](https://hub.tie.org/e/tiepune22ndmarch2018)" - TiE Pune, India (2018)**
 
-**"[Neuroscience, Ethics & Morality](http://funnel.thegoaproject.com/2015/)" - IIT Gandhinagar (2019), The Goa Project, Goa, India (2015)**
+**"Neuroscience, Ethics & Morality" - IIT Gandhinagar (2019), The Goa Project, Goa, India (2015)**
 
 **"[Film-making as Entrepreneurship](http://tiecon2014.doattend.com/)" - TiECon Central India, Nagpur, India (2014)**
 
