@@ -6,7 +6,7 @@ tags:
 ---
 **Here is a sample of other topics Mauktik has discussed at invited lectures at various forums:**
 
-**"Law, Society & Neuroscience" - National Law School of India University, Bangalore (2021), Azim Premji University, Bangalore  (2020)**
+**"Law, Society and Neuroscience" - National Law School of India University, Bangalore (2021), Azim Premji University, Bangalore  (2020)**
 
 **"The Art of Storytelling" - IIT Gandhinagar (2019), Atos, Mumbai (2019), VNIT Nagpur (2019), Arista Networks, Pune, India (2019)**
 
