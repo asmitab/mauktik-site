@@ -4,6 +4,8 @@ heading: ""
 tags:
   - news
 ---
+**The Wire: *[Article](https://thewire.in/politics/modi-nationalism-indian-economy-gdp-unemployment-hindutva-love-jihad)* by Mauktik on India's economic and social outlook as Narendra Modi completes seven years in office.**
+
 **Fair Observer: *[Article](https://www.fairobserver.com/region/north_america/mauktik-kulkarni-donald-trump-atatck-us-system-government-politics-us-economy-news-71621/)* by Mauktik on Trump's presidency and why the moral hazards of violating the spirit of free speech and last-minute impeachment are worth the risk.**
 
 **Scroll: *[Article](https://scroll.in/article/983614/as-robots-dance-in-the-us-and-animation-films-get-soul-a-cautionary-tale-brews-in-india)* by Mauktik about the alchemy of innovation and creativity, which still make the US an interesting experiment.**
