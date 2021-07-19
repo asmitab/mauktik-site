@@ -76,7 +76,7 @@ tags:
 
 **Mid-Day:** ***[Article](https://www.mid-day.com/articles/new-documentary-takes-you-from-mumbai-to-nagaland-via-10-cities-on-boat-bike-and-bullock/17262179)*** **about 'Riding on a Sunbeam' by Krutika Behrawala.**
 
-**Rediff: As a special correspondent for FIFA World Cup 2014, a series of** ***[articles](https://realtime.rediff.com/news/mauktik-kulkarni?service=site-search)*** **by** **Mauktik Kulkarni.**
+**Rediff: As a special correspondent for FIFA World Cup 2014, a series of** ***[articles](https://www.rediff.com/search/mauktik?src=hp_us_pc)*** **by** **Mauktik Kulkarni.**
 
 **Loksatta:** ***[Article](https://www.loksatta.com/lokrang-news/world-trip-by-mauktik-kulkarni-202309/)*** **about the round-the-world trip by Amruta Karkare (in Marathi).**
 
