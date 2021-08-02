@@ -4,6 +4,8 @@ heading: ""
 tags:
   - news
 ---
+**Scroll: *[Article](https://scroll.in/article/1001373/why-americans-should-be-alarmed-by-the-pegasus-spyware-controversy-in-india)* by Mauktik about the global snooping scandal involving Israeli spyware Pegasus and its implications for Indian and American democracies.**
+
 **Fair Observer: *[Article](https://www.fairobserver.com/region/central_south_asia/mauktik-kulkarni-indian-foreign-policy-india-narendra-modi-prime-minister-india-news-32803/)* by Mauktik on Narendra Modi's foreign policy and how it has weakened India.**
 
 **The Wire: *[Article](https://thewire.in/politics/modi-nationalism-indian-economy-gdp-unemployment-hindutva-love-jihad)* by Mauktik on India's economic and social outlook as Narendra Modi completes seven years in office.**
