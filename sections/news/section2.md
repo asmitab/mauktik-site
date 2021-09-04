@@ -4,6 +4,8 @@ heading: ""
 tags:
   - news
 ---
+**Fair Observer: *[Article](https://www.fairobserver.com/region/north_america/mauktik-kulkarni-donald-trump-narendra-modi-january-6-commission-capitol-hill-insurrection-democracy-news-00781/)* by Mauktik on the lessons Americans can learn from India's democratic backsliding.**
+
 **Scroll: *[Article](https://scroll.in/article/1001373/why-americans-should-be-alarmed-by-the-pegasus-spyware-controversy-in-india)* by Mauktik about the global snooping scandal involving Israeli spyware Pegasus and its implications for Indian and American democracies.**
 
 **Fair Observer: *[Article](https://www.fairobserver.com/region/central_south_asia/mauktik-kulkarni-indian-foreign-policy-india-narendra-modi-prime-minister-india-news-32803/)* by Mauktik on Narendra Modi's foreign policy and how it has weakened India.**
