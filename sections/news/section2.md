@@ -4,8 +4,6 @@ heading: ""
 tags:
   - news
 ---
-**Scroll: *[Article](https://scroll.in/article/1010095/in-seven-years-of-modi-an-unravelling-of-indias-proud-democratic-traditions)* by Mauktik about the recent Indian Supreme Court verdict on the Pegasus spyware case and the urgency related to other critical pending cases.**
-
 **Fair Observer: *[Article](https://www.fairobserver.com/region/north_america/mauktik-kulkarni-donald-trump-narendra-modi-january-6-commission-capitol-hill-insurrection-democracy-news-00781/)* by Mauktik on the lessons Americans can learn from India's democratic backsliding.**
 
 **Scroll: *[Article](https://scroll.in/article/1001373/why-americans-should-be-alarmed-by-the-pegasus-spyware-controversy-in-india)* by Mauktik about the global snooping scandal involving Israeli spyware Pegasus and its implications for Indian and American democracies.**
