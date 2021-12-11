@@ -6,4 +6,4 @@ imghref: https://www.theyoungdiplomats.com/podcast/in-depth%3A-is-india-(the-wor
 tags:
   - speaking
 ---
-Discussing the history and the current state of Indian democracy with budding diplomats and international affairs students at the Young Diplomats Society, Australia, for their podcast series 'Democracy in Decline' (audio only)
+Discussing the history and the current state of Indian democracy with budding diplomats and international affairs students at the Young Diplomats Society, Australia, for their podcast series 'Democracy in Decline' (audio only).
