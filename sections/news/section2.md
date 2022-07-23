@@ -4,6 +4,8 @@ heading: ""
 tags:
   - news
 ---
+**The Wire: *[Article](<https://thewire.in/world/witnessing-the-weeks-when-decades-happen>)* by Mauktik on what India can learn from the recent developments in the US regarding Roe v Wade and the Jan 6 commission.**
+
 **Fair Observer: *[Article](https://www.fairobserver.com/region/central_south_asia/mauktik-kulkarni-narendra-modi-economy-education-pandemic-response-india-politics-news-16221/)* by Mauktik on the declining social capital of India amid the prime minister's infrastructure building spree.**
 
 **Scroll: *[Article](https://scroll.in/article/1010095/in-seven-years-of-modi-an-unravelling-of-indias-proud-democratic-traditions)* by Mauktik about the recent Indian Supreme Court verdict on the Pegasus spyware case and the urgency related to other critical pending cases.**
