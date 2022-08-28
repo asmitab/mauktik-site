@@ -4,7 +4,9 @@ heading: ""
 tags:
   - news
 ---
-**The Wire: *[Article](<https://thewire.in/world/witnessing-the-weeks-when-decades-happen>)* by Mauktik on what India can learn from the recent developments in the US regarding Roe v Wade and the Jan 6 commission.**
+**Fair Observer: *[Article](https://www.fairobserver.com/politics/an-indian-perspective-on-nancy-pelosis-taiwan-visit/)* by Mauktik on US House Speaker Nancy Pelosi's recent visit to Taiwan and what it means to India.**
+
+**The Wire: *[Article](https://thewire.in/world/witnessing-the-weeks-when-decades-happen)* by Mauktik on what India can learn from the recent developments in the US regarding Roe v Wade and the Jan 6 commission.**
 
 **Fair Observer: *[Article](https://www.fairobserver.com/region/central_south_asia/mauktik-kulkarni-narendra-modi-economy-education-pandemic-response-india-politics-news-16221/)* by Mauktik on the declining social capital of India amid the prime minister's infrastructure building spree.**
 
