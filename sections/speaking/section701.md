@@ -8,6 +8,8 @@ tags:
 ---
 **Here is a sample of other topics Mauktik has discussed at invited lectures at various forums:**
 
+**"﻿[Stories of Indian Diaspora - Films & Documentaries](https://indiaspora.org/event/san-jose-forum-tenth-year-anniversary/)" - Indiaspora 10th Anniversary  Global Forum (2022)**
+
 **"Law, Society & Neuroscience" - National Law School of India University, Bangalore, India (2021), Azim Premji University, Bangalore, India  (2020)**
 
 **"The Art of Storytelling" - IIT Gandhinagar, India (2019), Atos, Mumbai, India (2019), VNIT, Nagpur, India (2019), Arista Networks, Pune, India (2019)**
