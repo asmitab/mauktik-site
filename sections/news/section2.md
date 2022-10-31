@@ -4,6 +4,8 @@ heading: ""
 tags:
   - news
 ---
+**The Print: *[Article](https://theprint.in/opinion/from-tablighi-jamaat-to-bilkis-bano-majoritarianism-growing-in-india-leftists-not-all-wrong/1185511/)* by Mauktik on rising majoritarianism in India and minoritarianism in the US (response to Jaithirth Rao).**
+
 **Fair Observer: *[Article](https://www.fairobserver.com/politics/an-indian-perspective-on-nancy-pelosis-taiwan-visit/)* by Mauktik on US House Speaker Nancy Pelosi's recent visit to Taiwan and its implications for India.**
 
 **The Wire: *[Article](https://thewire.in/world/witnessing-the-weeks-when-decades-happen)* by Mauktik on what India can learn from the recent developments in the US regarding Roe v Wade and the Jan 6 commission.**
