@@ -19,7 +19,7 @@
   "homepage": "https://mauktik-me.netlify.com",
   "devDependencies": {
     "@11ty/eleventy": "^0.9.0",
-    "luxon": "^1.19.2",
+    "luxon": "^1.28.1",
     "markdown-it": "^10.0.0",
     "markdown-it-anchor": "^5.2.4"
   },
