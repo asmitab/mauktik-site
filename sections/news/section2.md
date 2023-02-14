@@ -4,8 +4,6 @@ heading: ""
 tags:
   - news
 ---
-**Fair Observer: *[Article](https://www.fairobserver.com/business/one-hundred-years-of-chatgptude/)* by Mauktik on the promises and perils of ChatGPT, the AI tool to simplify writing.**
-
 **The Print: *[Article](https://theprint.in/opinion/from-tablighi-jamaat-to-bilkis-bano-majoritarianism-growing-in-india-leftists-not-all-wrong/1185511/)* by Mauktik on rising majoritarianism in India and minoritarianism in the US (response to Jaithirth Rao).**
 
 **Fair Observer: *[Article](https://www.fairobserver.com/politics/an-indian-perspective-on-nancy-pelosis-taiwan-visit/)* by Mauktik on US House Speaker Nancy Pelosi's recent visit to Taiwan and its implications for India.**
