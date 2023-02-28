@@ -86,8 +86,6 @@ tags:
 
 **Ghumakkar:** ***[Interview](https://www.ghumakkar.com/ghumakkar-interview-mauktik-kulkarni/)*** **about the solo bike trip, round-the-world trip and the travel documentary 'Riding on a Sunbeam' by Archana Ravichander.**
 
-**Indiapages:** ***[Interview](https://www.indiapages.in/mystory-mauktik-kulkarni-7794.html)*** **on 'Accidental Inspiration' by Suhana Bhatia.**
-
 **Times of India:** ***[Article](https://timesofindia.indiatimes.com/city/nagpur/A-travel-guru-bit-hard-by-the-travel-bug/articleshow/40875655.cms)*** **by Aparna Nair about 'A Travel Guru Bit Hard by the Travel Bug'.**
 
 **Mid-Day:** ***[Article](https://www.mid-day.com/articles/new-documentary-takes-you-from-mumbai-to-nagaland-via-10-cities-on-boat-bike-and-bullock/17262179)*** **about 'Riding on a Sunbeam' by Krutika Behrawala.**
