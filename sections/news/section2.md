@@ -4,6 +4,8 @@ heading: ""
 tags:
   - news
 ---
+**Scroll: *[Article](https://scroll.in/article/1050595/the-misinformation-armageddon-how-artificial-intelligence-could-undermine-democracies)* by Mauktik on the dangers AI poses to democracies and how it will require free societies to come up with new ways of thinking about their social contracts with their citizenry.**
+
 **S﻿uperbloom Studios: *[Interview](https://www.linkedin.com/pulse/conversation-between-dr-raji-baskaran-mr-mauktik-kulkarni)* with Dr. Raji Baskaran regarding the promises and perils of the latest developments in large language models, generative AI and neuroscience.**
 
 **Fair Observer: *[Article](https://www.fairobserver.com/business/one-hundred-years-of-chatgptude/)* by Mauktik on the promises and perils of ChatGPT, the AI tool to simplify writing.**
