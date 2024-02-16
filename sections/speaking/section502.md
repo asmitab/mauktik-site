@@ -1,6 +1,6 @@
 ---
 title: section502
-heading: section
+heading: ""
 imgurl: /static/img/ofofo.png
 imghref: https://www.youtube.com/watch?v=TFArKpN0Q4s
 tags:
